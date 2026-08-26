@@ -27,7 +27,9 @@ public class leetcode136 {
         System.out.println(arrs[arrs.length-1]);
             }
         }*/
-    
+
+      (Simple Method To Solve)
+          
     public class leetcode136 {
       public static void main(String[] args) {
         int [] arrs = {4,1,2,1,2};
