@@ -3,7 +3,7 @@
 //Input: [2, 2, 1, 1, 1, 2, 2]   → Output: 2
 
 
-/*import java.util.Arrays;
+import java.util.Arrays;
 public class leetcode169 {
     public static void main(String[] args) {
      int[] nums = {2,2,1,1,1,2,2};
@@ -14,19 +14,10 @@ public class leetcode169 {
         }
 
        
-    }*/
-
-
-public class leetcode169 {
-    public static void main(String[] args) {
-     int[] nums = {2,2,1,1,1,2,2};
-     
-     
-    
     }
 
-        
-        }
+
+
 
        
     
